@@ -1,0 +1,30 @@
+h1 {
+    color:chocolate;
+    font-weight: bolder;
+    font-family: 'Lobster', cursive;
+}
+
+a {
+     color: chocolate;
+     font-family: 'Lobster', cursive;
+     font-weight: bolder;
+     font-size: 20px;
+     text-transform: uppercase;
+     text-shadow: darkslateblue;
+     text-decoration-style: none;
+     text-decoration: none;
+
+}
+a:hover {
+color:cornflowerblue;
+font-size: 28px;
+}
+
+
+#list {
+
+    font-weight: bold;
+    font-size: 18px;
+    font-family: 'Lobster', cursive;
+    color:darkred;
+}
